@@ -1,0 +1,9 @@
+print("Enter the Frist the number:")
+a = int(input)
+
+print("Enter the Second the number:")
+b = int(input)
+
+sum = (a + b)
+
+print("The sum of two number is =", sum)
