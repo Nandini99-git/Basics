@@ -4,6 +4,8 @@ a = int(input())
 print("Enter the Second the number:")
 b = int(input())
 
-sum = (a + b)
+add = (a + b)
+sub = (a - b)
 
-print("The sum of two number is =", sum)
+print("The sum of two number is =", add)
+print("The sum of two number is =", sub)
