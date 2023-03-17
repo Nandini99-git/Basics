@@ -1,1 +1,2 @@
-n = int(input("Enter your first number:")
+n = int(input("Enter your first number:"))
+m = int(input("Enter your second number:"))
