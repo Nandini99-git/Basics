@@ -6,6 +6,8 @@ b = int(input())
 
 add = (a + b)
 sub = (a - b)
+div = (a / b)
 
-print("The sum of two number is =", add)
-print("The sum of two number is =", sub)
+print("The add of two number is =", add)
+print("The sub of two number is =", sub)
+print("The div of two number is =", div)
