@@ -3,3 +3,6 @@ m = int(input("Enter your second number:"))
 
 if (n>m):
   print(" your first number is greater than second", n)
+else:
+  print(" your second number is greater than first", m)
+  
