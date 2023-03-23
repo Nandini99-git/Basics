@@ -8,8 +8,12 @@ add = (a + b)
 sub = (a - b)
 div = (a / b)
 mul = (a * b)
+mod = (a % b)
 
 print("The add of two number is =", add)
 print("The sub of two number is =", sub)
 print("The div of two number is =", div)
 print("The mul of two number is =", mul)
+print("The mod of two number is =", mod)
+
+
