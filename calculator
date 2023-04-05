@@ -1,8 +1,8 @@
-print("Enter the Frist the number:")
+print("Enter the Frist number:")
 a = int(input())
 
-print("Enter the Second the number:")
-b = int(input())
+print("Enter the Second number:")
+b = int(input()
 
 add = (a + b)
 sub = (a - b)
