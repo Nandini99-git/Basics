@@ -1,5 +1,6 @@
 n = int(input("Enter your first number:"))
-m = int(input("Enter your second number:"))
+m = int(input("Enter your second number:")
+o = int(input("Enter your second number:"))
 
 if (n>m):
   print(" your first number is greater than second", n)
