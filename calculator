@@ -4,6 +4,8 @@ a = int(input())
 print("Enter the Second number:")
 b = int(input()
 
+print("Enter the third number:")
+
 add = (a + b)
 sub = (a - b)
 div = (a / b)
