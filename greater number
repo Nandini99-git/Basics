@@ -2,8 +2,8 @@ n = int(input("Enter your first number:"))
 m = int(input("Enter your second number:")
 o = int(input("Enter your second number:"))
 
-if (n>m):
+if (n>m) and (n>o):
   print(" your first number is greater than second", n)
-else:
+elif :
   print(" your second number is greater than first", m)
   
