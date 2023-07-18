@@ -1,1 +1,1 @@
-# Basics codes for freshers 😊 to learn and explore..
+# Basic codes for freshers 😊 to learn and explore..
